@@ -14,7 +14,7 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; JavaScript | Nodejs | Express | 
+- 💻 &nbsp; JavaScript | PHP | Nodejs | Express | 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
