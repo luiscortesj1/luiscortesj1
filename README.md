@@ -18,7 +18,7 @@
 
 - 🇨🇴  &nbsp; I am from Colombia 
 
-- 🤔 &nbsp; Exploring new technologies and developing web solutions and new frameworks in Nodejs.
+- 🤔 &nbsp; Exploring new technologies and developing web solutions and new frameworks in Js.
 
 - 🎓 &nbsp; I am a web developer and systems engineering student.
 
