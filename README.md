@@ -45,7 +45,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 |  Postgresql | Nest | Typescript | Angular
+- 🔧 &nbsp; AWS | Docker🐳 |  Postgresql | Nest | Typescript | Angular | SpringBoot
 
 <h3> You can find me 🚀: </h3>
 
